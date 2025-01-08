@@ -24,3 +24,5 @@ Here we need to select the environment which we need to deploy.and click on buil
 Aws steps
 Aws credentials
 Pipeline utility steps
+
+![1](https://github.com/user-attachments/assets/6a113afe-324e-4cba-b5dd-84e238005169)
