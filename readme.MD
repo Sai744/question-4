@@ -19,8 +19,10 @@ In Deploy stage we need to select the environment in jenkins as shown below and 
 
 Here we need to select the environment which we need to deploy.and click on build. 
 
-* PLUGINS NEED TO INSTALL
+__PLUGINS NEED TO INSTALL__
 
-Aws steps
-Aws credentials
-Pipeline utility steps
+* Aws steps
+
+* Aws credentials
+
+* Pipeline utility steps
