@@ -21,8 +21,18 @@ Here we need to select the environment which we need to deploy.and click on buil
 
 __PLUGINS NEED TO INSTALL__
 
+<<<<<<< HEAD
 * Aws steps
 
 * Aws credentials
 
 * Pipeline utility steps
+=======
+Aws steps
+Aws credentials
+Pipeline utility steps
+
+![1](https://github.com/user-attachments/assets/6a113afe-324e-4cba-b5dd-84e238005169)
+
+![2](https://github.com/user-attachments/assets/e1ef346f-5549-4708-8855-32c6a243e19c)
+>>>>>>> b898629f984eec5836da9a46b6aa1354143267f2
